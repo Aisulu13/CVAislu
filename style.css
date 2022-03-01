@@ -1,0 +1,80 @@
+body{
+ color:#2F4F4F;
+    background-color:#2F4F4F;
+    font-family:'Playfair Display';
+    font-size: 20px;
+    line-height: 1.5;
+    margin-top:0;
+    
+}
+h1{
+    color: #8FBC8F;
+}
+h2,
+a{color:#2F4F4F;
+text-align: center;
+padding:0;
+
+
+}
+h1,
+h2,
+h3 {
+    font-family: 'Times New Roman',serif;
+    font-style: normal;
+
+
+}
+h1{
+    font-size: 78px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-align:center;
+
+}
+
+h3{
+    font-size: 15px;
+}
+a{font-size: 15px;
+    font-style: italic;
+    text-align: center;
+
+}
+.hlavicka{
+    background-color: #2F4F4F;
+    
+}
+.zivotopis{
+    background-color: #8FBC8F;
+    
+}
+.paticka{
+    background-color: #2F4F4F;
+    color: #6fb46f;
+    
+}
+
+.hlavni-foto{
+    width: 150px;
+    border-radius: 20px;
+    border: 6px solid #8FBC;
+    float: left;
+    margin:30px 30px 30px 30px;
+    clear: both;
+    
+
+}
+section{
+    padding:50px 15%;
+    font-size: 15px;
+    
+}
+
+table,
+tr{
+border-bottom:1px solid #2F4F4F;
+}
+
